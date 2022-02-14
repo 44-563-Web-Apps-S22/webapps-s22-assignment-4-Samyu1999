@@ -1,0 +1,19 @@
+h1 {color:red;}
+
+.speech{font-size:large; color:darkgreen; font-style: italic;}
+
+.direction{background-color:white; color: black; font-size:medium;}
+
+.direction:hover{background-color:grey; color:orange;}
+
+.MONSIEURJOURDAIN{color:darkcyan; font-size:medium;}
+
+.MUSICMASTER{color:yellow ; font-size:medium;}
+
+.DANCINGMASTER{color:violet; font-size:medium;}
+
+.LACKEY{color:pink;font size:medium;}
+
+.Characters{color:blue;font-size:medium;}
+
+.Table,th,td,tr{border: 1mm;border-color:seagreen ; border-style: double; color: rgb(10, 99, 103); text-align: left; padding: 1mm; margin: 1cm;}
