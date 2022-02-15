@@ -19,3 +19,25 @@ h1 {color:red;}
 .Table,th,td,tr{border: 1mm;border-color:seagreen ; border-style: double; color: rgb(10, 99, 103); text-align: left; padding: 1mm; margin: 1cm;}
 
 .name:hover{text-shadow:1px 2px 3px rgb(rgb(13,9,12)); color:violet;filter: green(3px);border: double 2px black;} 
+ul.navbar-horizontal {
+    /* remove these */
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    }
+    ul.navbar-horizontal li {
+    float:left;
+    background-color:bisque
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    margin:10px;
+    }
+    ul.navbar-horizontal a:hover {  
+    background-color: #555;
+    color:black;
+    }
+    .icon{
+        align-items: center;
+    }
